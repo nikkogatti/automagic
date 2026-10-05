@@ -1,0 +1,37 @@
+@font-face  {
+  font-family:'UnifrakturCook';
+  src:url('/fonts/unifraktur-cook-bold.ttf') format('truetype');
+  font-style:normal;
+  font-weight:700;
+  font-display:swap
+}
+@font-face  {
+  font-family:'IBM Plex Mono';
+  src:url('/fonts/ibm-plex-mono-medium.ttf') format('truetype');
+  font-style:normal;
+  font-weight:500;
+  font-display:swap
+}
+:root {
+  color-scheme:dark;
+  --mono:'IBM Plex Mono',monospace;
+  --display:'UnifrakturCook',serif
+}
+* {
+  box-sizing:border-box
+}
+body {
+  margin:0;
+  background:#102627;
+  color:#ffffd8;
+  font:500 14px/1.5 var(--mono)
+}
+button {
+  border-radius:0
+}
+button:not(:disabled):hover {
+  filter:brightness(1.2)
+}
+h2 {
+  margin:0
+}

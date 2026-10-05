@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Union">
+<path d="M8 14V16H12V18H14V14H8Z" fill="#F06712"/>
+<path d="M14 14H16V12H14V14Z" fill="#F06712"/>
+<path d="M6 8H2V10H6V14H8V10H10V8H8V4H6V8Z" fill="#F06712"/>
+<path d="M10 12H12V10H10V12Z" fill="#F06712"/>
+<path d="M0 12H2V10H0V12Z" fill="#F06712"/>
+<path d="M12 10H14V8H12V10Z" fill="#F06712"/>
+<path d="M10 8H12V6H10V8Z" fill="#F06712"/>
+<path d="M0 8H2V6H0V8Z" fill="#F06712"/>
+<path d="M14 6H16V4H14V6Z" fill="#F06712"/>
+<path d="M12 2H8V4H14V0H12V2Z" fill="#F06712"/>
+</g>
+</svg>

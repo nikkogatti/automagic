@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20" height="17" viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="crown">
+<path d="M8 17H6V14H8V17Z" fill="#3A4D48"/>
+<path d="M12 17V14H14V17H12Z" fill="#3A4D48"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 2H13V6H12V7H11V12H12V14H11V17H9V14H8V12H9V7H8V6H7V2H8V0H12V2ZM9 5H11V2H9V5Z" fill="#3A4D48"/>
+<path d="M6 14H5V15H3V14H2V12H6V14Z" fill="#3A4D48"/>
+<path d="M18 14H17V15H15V14H14V12H18V14Z" fill="#3A4D48"/>
+<path d="M2 12H0V7H2V12Z" fill="#3A4D48"/>
+<path d="M8 12H6V7H8V12Z" fill="#3A4D48"/>
+<path d="M14 12H12V7H14V12Z" fill="#3A4D48"/>
+<path d="M20 12H18V7H20V12Z" fill="#3A4D48"/>
+<path d="M5 5H6V7H2V5H3V4H5V5Z" fill="#3A4D48"/>
+<path d="M17 5H18V7H14V5H15V4H17V5Z" fill="#3A4D48"/>
+</g>
+</svg>

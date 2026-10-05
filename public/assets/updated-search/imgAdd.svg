@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Add">
+<rect x="0.5" y="0.5" width="54" height="54" fill="#142D2E"/>
+<rect x="0.5" y="0.5" width="54" height="54" stroke="#20393A"/>
+<g id="Union">
+<path d="M28.5 38.5H26.5V30.5H28.5V38.5Z" fill="#FFFFD8"/>
+<path d="M24.5 32.5H22.5V30.5H24.5V32.5Z" fill="#FFFFD8"/>
+<path d="M32.5 32.5H30.5V30.5H32.5V32.5Z" fill="#FFFFD8"/>
+<path d="M22.5 26.5H24.5V28.5H22.5V30.5H20.5V28.5H16.5V26.5H20.5V24.5H22.5V26.5Z" fill="#FFFFD8"/>
+<path d="M26.5 30.5H24.5V28.5H26.5V30.5Z" fill="#FFFFD8"/>
+<path d="M30.5 30.5H28.5V28.5H30.5V30.5Z" fill="#FFFFD8"/>
+<path d="M34.5 26.5H38.5V28.5H34.5V30.5H32.5V28.5H30.5V26.5H32.5V24.5H34.5V26.5Z" fill="#FFFFD8"/>
+<path d="M28.5 28.5H26.5V26.5H28.5V28.5Z" fill="#FFFFD8"/>
+<path d="M26.5 26.5H24.5V24.5H26.5V26.5Z" fill="#FFFFD8"/>
+<path d="M30.5 26.5H28.5V24.5H30.5V26.5Z" fill="#FFFFD8"/>
+<path d="M24.5 24.5H22.5V22.5H24.5V24.5Z" fill="#FFFFD8"/>
+<path d="M28.5 24.5H26.5V16.5H28.5V24.5Z" fill="#FFFFD8"/>
+<path d="M32.5 24.5H30.5V22.5H32.5V24.5Z" fill="#FFFFD8"/>
+</g>
+</g>
+</svg>
